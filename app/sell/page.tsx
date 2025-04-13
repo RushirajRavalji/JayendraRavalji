@@ -62,7 +62,7 @@ export default function SellPage() {
                             </div>
                             <h3 className="text-lg leading-6 font-medium text-gray-900 mb-2">Thank you for your submission!</h3>
                             <p className="text-gray-600 mb-6">
-                                We've received your property details. One of our agents will contact you soon to discuss the next steps.
+                                We&apos;ve received your property details. One of our agents will contact you soon to discuss the next steps.
                             </p>
                             <button
                                 onClick={() => setSubmitted(false)}
