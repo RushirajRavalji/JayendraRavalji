@@ -45,7 +45,7 @@ export default function PropertyDetail() {
         if (!property) return "";
 
         const message = `
-Hello Amit, 
+Hello Jayendra, 
 
 I'm interested in the property: ${property.title} (ID: ${property.id})
 Location: ${property.address}, ${property.city}, ${property.state}
@@ -300,7 +300,7 @@ Thank you!
                                                 </svg>
                                             </div>
                                             <div className="ml-4">
-                                                <h4 className="text-sm font-medium text-black">Amit Patel</h4>
+                                                <h4 className="text-sm font-medium text-black">Jayendra Ravalji</h4>
                                                 <p className="text-sm text-black">Real Estate Agent</p>
                                                 <a
                                                     href="https://wa.me/916354450316"
